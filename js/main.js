@@ -1,2 +1,3 @@
-const h1 = document.querySelector('h1');
-h1.innerHTML ="attention";
+import { snakeGame } from "./libraries/functions";
+
+snakeGame
