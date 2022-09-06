@@ -1,3 +1,3 @@
-import { snakeGame } from "./libraries/functions";
+import { snakeGame } from "./libraries/functions.js";
 
-snakeGame
+snakeGame.createCanvas();
