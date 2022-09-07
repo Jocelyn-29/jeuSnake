@@ -1,3 +1,4 @@
 import { snakeGame } from "./libraries/functions.js";
 
-snakeGame.createCanvas();
+
+snakeGame.start();
